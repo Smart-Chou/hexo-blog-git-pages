@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FighTeen</title>
+  
+  <subtitle>至仁、至善、至高、至强</subtitle>
+  <link href="https://fighteen.cc/atom.xml" rel="self"/>
+  
+  <link href="https://fighteen.cc/"/>
+  <updated>2022-08-30T16:00:00.000Z</updated>
+  <id>https://fighteen.cc/</id>
+  
+  <author>
+    <name>FighTeen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://fighteen.cc/daily/Hello%20World.html"/>
+    <id>https://fighteen.cc/daily/Hello%20World.html</id>
+    <published>2020-05-19T16:00:00.000Z</published>
+    <updated>2022-08-30T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World！</p><span id="more"></span><p>Hello World！</p>]]></content>
+    
+    
+    <summary type="html">Hello World！</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
